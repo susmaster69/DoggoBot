@@ -5,7 +5,7 @@ const config = require('../../config.json');
 module.exports = {
     name: "meme",
     category: "Image",
-    description: "Sends a random meme from reddit",
+    description: "Sends a random meme from nibba",
     example: `${config.Prefix}meme`,
 
     run: async (client, message, args) => {
